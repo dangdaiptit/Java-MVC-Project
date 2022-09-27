@@ -30,6 +30,7 @@ public class StartView {
                     StudentController.listAllStudent();
                     break;
                 case 6:
+                    System.out.println("Exit");
                     return;
             }
         }
